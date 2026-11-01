@@ -21,6 +21,14 @@ I'm currently learning and building projects in:
 - LangChain
 - Streamlit
 
+- ## Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## My Projects
 
 - LangGraph Chatbot
@@ -29,3 +37,5 @@ I'm currently learning and building projects in:
 
 - LinkedIn: https://www.linkedin.com/in/muhammad-yasir-17211a423
 - GitHub: https://github.com/muhammadyasir-Ai
+
+- 
