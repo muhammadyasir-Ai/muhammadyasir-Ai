@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Muhammad Yasir 👋
 
-<!--
-**muhammadyasir-Ai/muhammadyasir-Ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate | Data Science & GenAI Learner
 
-Here are some ideas to get you started:
+I'm currently learning and building projects in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Science
+- Machine Learning
+- Generative AI
+- Large Language Models (LLMs)
+- LangChain & LangGraph
+
+## Technologies
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- LangGraph
+- LangChain
+- Streamlit
+
+## My Projects
+
+- LangGraph Chatbot
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/muhammad-yasir-17211a423
+- GitHub: https://github.com/muhammadyasir-Ai
